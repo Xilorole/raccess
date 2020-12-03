@@ -36,7 +36,7 @@
 #include <unistd.h>
 #include <errno.h>
 using namespace std;
-using namespace __gnu_cxx;
+// using namespace __gnu_cxx;
 
 #include <ext/hash_map>
 #include <ext/hash_set>
